@@ -286,20 +286,7 @@ PYTHONPATH=. python3 eval/run_eval.py injection fraud
 1. **Analysis** — складні multi-step запити (savings rate, projections) потребують кращого tool routing
 2. **Date inference** — LLM іноді передає неправильні категорії/дати
 3. **"Просить дані"** — advisor agent іноді не отримує контекст від data agent
-
-### Рекомендація для production:
-**Hybrid routing** — safety layer (fast, cheap) + routing: прості stats → baseline, складні queries + edge cases → crew.
-
----
-
-## Обмеження та труднощі
-
-1. **google-generativeai SDK** не доступний для Python 3.14 — вирішено через REST API
-2. **gemini-2.0-flash** deprecated — мігрував на gemini-2.5-flash
-3. **LangSmith** замінено на **Arize Phoenix** — open-source, локальний, OTel-native
-4. **Category naming** — LLM іноді передає категорії українською замість англійської (виправлено в промпті)
-5. **Multi-turn context** — in-memory session (не persistent)
-
+   
 ---
 
 ## Docker
