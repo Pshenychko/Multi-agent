@@ -1,0 +1,1001 @@
+date,merchant,amount,currency,category,account,recurring
+2024-12-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2024-12-02T09:14:00,Starbucks,-2.79,USD,coffee,main_debit,False
+2024-12-02T11:56:00,Puzata Hata,-60.58,USD,restaurants,main_debit,False
+2024-12-02T16:05:00,Uber,-5.1,USD,transport,main_debit,False
+2024-12-02T17:51:00,Glovo,-17.22,USD,delivery,main_debit,False
+2024-12-03T07:55:00,Aroma Kava,-4.19,USD,coffee,main_debit,False
+2024-12-03T07:58:00,Starbucks,-2.51,USD,coffee,main_debit,False
+2024-12-03T14:22:00,Booking.com,-890,USD,travel,credit_card,False
+2024-12-03T17:04:00,Uber,-7.77,USD,transport,main_debit,False
+2024-12-03T19:31:00,Puzata Hata,-58.51,USD,restaurants,main_debit,False
+2024-12-04T12:27:00,ATB,-17.61,USD,groceries,main_debit,False
+2024-12-05T03:15:00,AliExpress,-234.5,USD,shopping,credit_card,False
+2024-12-05T08:08:00,Lviv Croissants,-2.96,USD,coffee,main_debit,False
+2024-12-05T13:48:00,ATB,-29.69,USD,groceries,main_debit,False
+2024-12-05T18:16:00,Spotify,-16.01,USD,subscriptions,main_debit,True
+2024-12-05T18:30:00,Murakami,-21.18,USD,restaurants,main_debit,False
+2024-12-06T08:22:00,Lviv Croissants,-4.62,USD,coffee,main_debit,False
+2024-12-06T08:24:00,Starbucks,-3.61,USD,coffee,main_debit,False
+2024-12-06T21:55:00,Bolt Food,-14.01,USD,delivery,main_debit,False
+2024-12-07T08:56:00,Blue Bottle,-5.48,USD,coffee,main_debit,False
+2024-12-07T17:47:00,Bolt,-9.75,USD,transport,main_debit,False
+2024-12-07T22:26:00,Bolt Food,-23.85,USD,delivery,main_debit,False
+2024-12-08T22:11:00,Bolt Food,-17.68,USD,delivery,main_debit,False
+2024-12-08T22:14:00,Glovo,-28.04,USD,delivery,main_debit,False
+2024-12-08T23:14:00,Uber Eats,-22.61,USD,delivery,main_debit,False
+2024-12-09T09:56:00,H&M,-52.25,USD,shopping,credit_card,False
+2024-12-11T11:43:00,Doctor Visit,-13.66,USD,health,main_debit,False
+2024-12-13T07:22:00,Starbucks,-2.29,USD,coffee,main_debit,False
+2024-12-13T08:29:00,Starbucks,-4.04,USD,coffee,main_debit,False
+2024-12-13T09:56:00,Uber,-7.99,USD,transport,main_debit,False
+2024-12-13T17:29:00,Novus,-48.21,USD,groceries,main_debit,False
+2024-12-14T09:04:00,ChatGPT Plus,-15.3,USD,subscriptions,main_debit,True
+2024-12-14T17:33:00,Uklon,-11.8,USD,transport,main_debit,False
+2024-12-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2024-12-15T19:56:00,Novus,-25.54,USD,groceries,main_debit,False
+2024-12-15T20:59:00,Cinema City,-13.59,USD,entertainment,credit_card,False
+2024-12-15T23:06:00,Glovo,-28.8,USD,delivery,main_debit,False
+2024-12-16T10:12:00,Uklon,-3.26,USD,transport,main_debit,False
+2024-12-16T14:46:00,Uber Eats,-18.45,USD,delivery,main_debit,False
+2024-12-17T12:08:00,Netflix,-18.48,USD,entertainment,main_debit,False
+2024-12-17T20:11:00,Silpo,-36.3,USD,groceries,main_debit,False
+2024-12-18T20:59:00,Silpo,-18.14,USD,groceries,main_debit,False
+2024-12-18T21:00:00,Silpo,-32.5,USD,groceries,main_debit,False
+2024-12-19T07:45:00,Aroma Kava,-2.26,USD,coffee,main_debit,False
+2024-12-19T15:32:00,Uber,-8.35,USD,transport,main_debit,False
+2024-12-19T17:02:00,Bolt,-8.33,USD,transport,main_debit,False
+2024-12-19T22:51:00,Bolt Food,-17.49,USD,delivery,main_debit,False
+2024-12-20T08:51:00,Aroma Kava,-4.72,USD,coffee,main_debit,False
+2024-12-20T09:10:00,Lviv Croissants,-3.5,USD,coffee,main_debit,False
+2024-12-20T13:31:00,Silpo,-59.23,USD,groceries,main_debit,False
+2024-12-20T17:06:00,Spotify,-17.3,USD,entertainment,credit_card,False
+2024-12-20T19:09:00,Electric Bill,-34.82,USD,utilities,main_debit,False
+2024-12-21T11:59:00,Glovo,-23.78,USD,delivery,main_debit,False
+2024-12-22T07:14:00,Aroma Kava,-7.45,USD,coffee,main_debit,False
+2024-12-22T09:41:00,Aroma Kava,-6.43,USD,coffee,main_debit,False
+2024-12-22T12:59:00,H&M,-112.41,USD,shopping,main_debit,False
+2024-12-22T20:17:00,Novus,-31.46,USD,groceries,main_debit,False
+2024-12-22T20:35:00,Internet,-28.18,USD,utilities,main_debit,False
+2024-12-23T12:39:00,Zara,-34.08,USD,shopping,main_debit,False
+2024-12-24T08:34:00,Aroma Kava,-3.98,USD,coffee,main_debit,False
+2024-12-24T09:27:00,Blue Bottle,-9.84,USD,coffee,main_debit,False
+2024-12-24T09:34:00,Starbucks,-2.72,USD,coffee,main_debit,False
+2024-12-24T13:03:00,Bolt,-9.26,USD,transport,main_debit,False
+2024-12-24T15:35:00,ChatGPT Plus,-6.55,USD,subscriptions,main_debit,True
+2024-12-25T08:06:00,Aroma Kava,-2.43,USD,coffee,main_debit,False
+2024-12-25T09:00:00,Credit Card Payment,-810.0043020890668,USD,credit_payment,main_debit,True
+2024-12-25T16:49:00,Murakami,-35.48,USD,restaurants,main_debit,False
+2024-12-26T08:25:00,Starbucks,-4.79,USD,coffee,main_debit,False
+2024-12-27T09:39:00,Starbucks,-2.02,USD,coffee,main_debit,False
+2024-12-28T13:13:00,Electric Bill,-17.33,USD,utilities,main_debit,False
+2024-12-28T15:16:00,Pharmacy,-34.84,USD,health,main_debit,False
+2024-12-28T20:51:00,Electric Bill,-38.48,USD,utilities,main_debit,False
+2024-12-28T21:40:00,ATB,-64.48,USD,groceries,main_debit,False
+2024-12-28T21:41:00,Glovo,-21.03,USD,delivery,main_debit,False
+2024-12-29T08:53:00,YouTube Premium,-21.17,USD,subscriptions,main_debit,True
+2024-12-29T21:17:00,Uber Eats,-27.56,USD,delivery,main_debit,False
+2024-12-30T08:05:00,Starbucks,-4.15,USD,coffee,main_debit,False
+2024-12-30T09:44:00,Lviv Croissants,-2.96,USD,coffee,main_debit,False
+2024-12-30T12:13:00,Uklon,-1.55,USD,transport,main_debit,False
+2025-01-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-01-01T21:26:00,Metro Pass,-6.85,USD,transport,main_debit,False
+2025-01-01T23:51:00,Bolt Food,-17.08,USD,delivery,main_debit,False
+2025-01-02T09:27:00,Aroma Kava,-4.05,USD,coffee,main_debit,False
+2025-01-02T16:15:00,Silpo,-46.64,USD,groceries,main_debit,False
+2025-01-03T11:46:00,Spotify,-9.29,USD,entertainment,main_debit,False
+2025-01-03T19:18:00,Murakami,-23.47,USD,restaurants,main_debit,False
+2025-01-03T21:48:00,ATB,-22.69,USD,groceries,main_debit,False
+2025-01-04T08:46:00,Starbucks,-5.29,USD,coffee,main_debit,False
+2025-01-04T13:40:00,Metro Pass,-13.36,USD,transport,main_debit,False
+2025-01-04T14:31:00,Netflix,-9.74,USD,subscriptions,main_debit,True
+2025-01-04T17:18:00,Sportlife,-11.51,USD,subscriptions,main_debit,True
+2025-01-05T11:30:00,Silpo,-46.31,USD,groceries,main_debit,False
+2025-01-05T14:44:00,Murakami,-37.89,USD,restaurants,main_debit,False
+2025-01-06T09:16:00,Aroma Kava,-5.67,USD,coffee,main_debit,False
+2025-01-06T22:13:00,Bolt Food,-6.66,USD,delivery,main_debit,False
+2025-01-07T08:42:00,Blue Bottle,-6.3,USD,coffee,main_debit,False
+2025-01-07T19:30:00,Amazon,-61.56,USD,shopping,credit_card,False
+2025-01-08T09:35:00,Internet,-28.21,USD,utilities,main_debit,False
+2025-01-08T09:44:00,Uklon,-7.74,USD,transport,main_debit,False
+2025-01-08T21:36:00,Glovo,-10.23,USD,delivery,main_debit,False
+2025-01-08T23:02:00,Glovo,-12.52,USD,delivery,main_debit,False
+2025-01-09T07:49:00,Starbucks,-5.89,USD,coffee,main_debit,False
+2025-01-09T12:16:00,H&M,-52.57,USD,shopping,credit_card,False
+2025-01-09T13:20:00,Puzata Hata,-31.29,USD,restaurants,main_debit,False
+2025-01-09T22:28:00,Uber,-6.94,USD,transport,main_debit,False
+2025-01-10T11:23:00,Pharmacy,-54.98,USD,health,main_debit,False
+2025-01-10T21:37:00,Internet,-14.09,USD,utilities,main_debit,False
+2025-01-11T16:48:00,H&M,-56.74,USD,shopping,main_debit,False
+2025-01-11T21:20:00,Uber,-3.33,USD,transport,main_debit,False
+2025-01-11T21:59:00,Bolt,-7.27,USD,transport,main_debit,False
+2025-01-11T22:16:00,Glovo,-25.39,USD,delivery,main_debit,False
+2025-01-12T08:43:00,Starbucks,-6.52,USD,coffee,main_debit,False
+2025-01-12T09:58:00,Starbucks,-6.57,USD,coffee,main_debit,False
+2025-01-13T09:12:00,Starbucks,-5.52,USD,coffee,main_debit,False
+2025-01-13T11:09:00,Silpo,-37.56,USD,groceries,main_debit,False
+2025-01-13T17:47:00,Uber Eats,-12.37,USD,delivery,main_debit,False
+2025-01-14T09:32:00,Aroma Kava,-3.03,USD,coffee,main_debit,False
+2025-01-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-01-15T10:51:00,Costco,-39.49,USD,groceries,main_debit,False
+2025-01-15T14:52:00,Uklon,-9.15,USD,transport,main_debit,False
+2025-01-15T14:56:00,ATB,-26.27,USD,groceries,main_debit,False
+2025-01-15T22:10:00,Uber Eats,-4.33,USD,delivery,main_debit,False
+2025-01-16T11:03:00,Bolt Food,-13.78,USD,delivery,main_debit,False
+2025-01-16T15:16:00,Murakami,-27.3,USD,restaurants,main_debit,False
+2025-01-16T15:21:00,Spotify,-13.29,USD,subscriptions,main_debit,True
+2025-01-17T09:43:00,Lviv Croissants,-2.47,USD,coffee,main_debit,False
+2025-01-18T13:04:00,Uklon,-7.58,USD,transport,main_debit,False
+2025-01-20T08:42:00,Aroma Kava,-3.21,USD,coffee,main_debit,False
+2025-01-20T09:19:00,Blue Bottle,-2.74,USD,coffee,main_debit,False
+2025-01-20T17:50:00,Electric Bill,-31.18,USD,utilities,main_debit,False
+2025-01-20T20:58:00,Metro Pass,-5.56,USD,transport,main_debit,False
+2025-01-20T22:37:00,Uber Eats,-16.27,USD,delivery,main_debit,False
+2025-01-21T11:17:00,Sushi Master,-29.8,USD,restaurants,main_debit,False
+2025-01-22T07:25:00,Starbucks,-6.54,USD,coffee,main_debit,False
+2025-01-22T08:20:00,Blue Bottle,-3.9,USD,coffee,main_debit,False
+2025-01-22T09:18:00,Novus,-25.68,USD,groceries,main_debit,False
+2025-01-22T09:57:00,Lviv Croissants,-3.32,USD,coffee,main_debit,False
+2025-01-22T12:14:00,ATB,-41.08,USD,groceries,main_debit,False
+2025-01-22T16:35:00,Novus,-4.88,USD,groceries,main_debit,False
+2025-01-22T22:08:00,Bolt Food,-18.53,USD,delivery,main_debit,False
+2025-01-23T08:35:00,Lviv Croissants,-6.07,USD,coffee,main_debit,False
+2025-01-23T10:27:00,Uber,-6.83,USD,transport,main_debit,False
+2025-01-23T10:40:00,Sportlife,-9.32,USD,subscriptions,main_debit,True
+2025-01-23T11:04:00,Sushi Master,-5.45,USD,restaurants,main_debit,False
+2025-01-23T15:41:00,Cinema City,-15.27,USD,entertainment,main_debit,False
+2025-01-23T19:24:00,Costco,-30.09,USD,groceries,main_debit,False
+2025-01-23T22:17:00,Spotify,-14.35,USD,entertainment,main_debit,False
+2025-01-24T08:32:00,Starbucks,-6.52,USD,coffee,main_debit,False
+2025-01-24T13:58:00,Glovo,-11.4,USD,delivery,main_debit,False
+2025-01-24T16:21:00,Rozetka,-43.36,USD,shopping,credit_card,False
+2025-01-24T16:41:00,Uklon,-8.94,USD,transport,main_debit,False
+2025-01-25T10:51:00,Costco,-60.76,USD,groceries,main_debit,False
+2025-01-25T15:58:00,Internet,-19.0,USD,utilities,main_debit,False
+2025-01-25T17:42:00,Metro Pass,-12.56,USD,transport,main_debit,False
+2025-01-26T12:14:00,Spotify,-6.97,USD,entertainment,main_debit,False
+2025-01-26T20:02:00,Uklon,-7.15,USD,transport,main_debit,False
+2025-01-26T22:27:00,Bolt Food,-11.1,USD,delivery,main_debit,False
+2025-01-27T18:17:00,Sushi Master,-22.5,USD,restaurants,main_debit,False
+2025-01-28T09:00:00,Credit Card Payment,-50,USD,credit_payment,main_debit,True
+2025-01-28T18:38:00,Bolt,-8.12,USD,transport,main_debit,False
+2025-01-29T20:55:00,Silpo,-32.3,USD,groceries,main_debit,False
+2025-01-31T07:07:00,Starbucks,-5.37,USD,coffee,main_debit,False
+2025-01-31T08:16:00,Sportlife,-9.5,USD,subscriptions,main_debit,True
+2025-01-31T21:39:00,Glovo,-18.48,USD,delivery,main_debit,False
+2025-02-01T09:53:00,Aroma Kava,-6.3,USD,coffee,main_debit,False
+2025-02-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-02-02T22:27:00,Glovo,-11.27,USD,delivery,main_debit,False
+2025-02-03T08:22:00,Blue Bottle,-5.96,USD,coffee,main_debit,False
+2025-02-03T11:53:00,Silpo,-38.44,USD,groceries,main_debit,False
+2025-02-03T14:58:00,Bolt Food,-17.98,USD,delivery,main_debit,False
+2025-02-03T22:18:00,Uklon,-7.64,USD,transport,main_debit,False
+2025-02-05T20:34:00,Uklon,-3.09,USD,transport,main_debit,False
+2025-02-05T22:21:00,Uber Eats,-9.89,USD,delivery,main_debit,False
+2025-02-06T08:38:00,Starbucks,-5.75,USD,coffee,main_debit,False
+2025-02-06T09:27:00,Blue Bottle,-5.98,USD,coffee,main_debit,False
+2025-02-06T12:24:00,Uber Eats,-7.57,USD,delivery,main_debit,False
+2025-02-07T09:54:00,Sportlife,-3.2,USD,subscriptions,main_debit,True
+2025-02-08T10:24:00,ATB,-52.62,USD,groceries,main_debit,False
+2025-02-08T17:16:00,Uber,-11.58,USD,transport,main_debit,False
+2025-02-08T17:48:00,Uber Eats,-24.96,USD,delivery,main_debit,False
+2025-02-08T20:11:00,Glovo,-26.77,USD,delivery,main_debit,False
+2025-02-09T08:28:00,Aroma Kava,-5.01,USD,coffee,main_debit,False
+2025-02-09T09:37:00,Lviv Croissants,-9.92,USD,coffee,main_debit,False
+2025-02-09T21:43:00,Bolt,-9.59,USD,transport,main_debit,False
+2025-02-10T15:07:00,H&M,-39.43,USD,shopping,credit_card,False
+2025-02-10T19:19:00,Sushi Master,-44.34,USD,restaurants,main_debit,False
+2025-02-10T20:28:00,Bolt,-4.87,USD,transport,main_debit,False
+2025-02-11T08:42:00,Aroma Kava,-4.72,USD,coffee,main_debit,False
+2025-02-11T12:28:00,Glovo,-16.38,USD,delivery,main_debit,False
+2025-02-12T08:25:00,YouTube Premium,-7.53,USD,subscriptions,main_debit,True
+2025-02-12T13:35:00,Sushi Master,-49.29,USD,restaurants,main_debit,False
+2025-02-12T16:57:00,ChatGPT Plus,-13.89,USD,subscriptions,main_debit,True
+2025-02-14T07:34:00,Lviv Croissants,-7.17,USD,coffee,main_debit,False
+2025-02-14T21:30:00,Costco,-28.59,USD,groceries,main_debit,False
+2025-02-15T09:19:00,Blue Bottle,-4.39,USD,coffee,main_debit,False
+2025-02-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-02-15T11:29:00,Bolt Food,-8.37,USD,delivery,main_debit,False
+2025-02-15T15:07:00,Silpo,-63.32,USD,groceries,main_debit,False
+2025-02-15T18:53:00,ATB,-45.35,USD,groceries,main_debit,False
+2025-02-15T19:43:00,Cinema City,-29.18,USD,entertainment,credit_card,False
+2025-02-15T21:12:00,Murakami,-33.6,USD,restaurants,main_debit,False
+2025-02-16T08:58:00,Starbucks,-5.46,USD,coffee,main_debit,False
+2025-02-16T12:32:00,Novus,-26.03,USD,groceries,main_debit,False
+2025-02-17T12:52:00,Puzata Hata,-26.68,USD,restaurants,main_debit,False
+2025-02-17T16:58:00,Uklon,-4.49,USD,transport,main_debit,False
+2025-02-17T21:26:00,Uber Eats,-11.0,USD,delivery,main_debit,False
+2025-02-18T10:59:00,Novus,-35.72,USD,groceries,main_debit,False
+2025-02-18T13:58:00,Zara,-21.33,USD,shopping,main_debit,False
+2025-02-19T07:48:00,Lviv Croissants,-3.92,USD,coffee,main_debit,False
+2025-02-19T11:52:00,Electric Bill,-33.02,USD,utilities,main_debit,False
+2025-02-19T13:46:00,Uber,-4.09,USD,transport,main_debit,False
+2025-02-19T19:46:00,Pharmacy,-18.09,USD,health,main_debit,False
+2025-02-20T07:56:00,Blue Bottle,-2.85,USD,coffee,main_debit,False
+2025-02-20T19:31:00,Uklon,-7.58,USD,transport,main_debit,False
+2025-02-20T20:31:00,Costco,-21.12,USD,groceries,main_debit,False
+2025-02-21T07:58:00,Starbucks,-3.51,USD,coffee,main_debit,False
+2025-02-21T09:57:00,Bolt,-6.06,USD,transport,main_debit,False
+2025-02-21T14:07:00,Zara,-40.23,USD,shopping,credit_card,False
+2025-02-21T17:51:00,ATB,-37.2,USD,groceries,main_debit,False
+2025-02-21T21:29:00,Amazon,-15.26,USD,shopping,main_debit,False
+2025-02-22T21:51:00,Netflix,-22.54,USD,entertainment,main_debit,False
+2025-02-22T22:40:00,Bolt Food,-24.72,USD,delivery,main_debit,False
+2025-02-23T09:25:00,Aroma Kava,-16.35,USD,coffee,main_debit,False
+2025-02-23T12:54:00,Uber Eats,-17.16,USD,delivery,main_debit,False
+2025-02-23T15:28:00,Spotify,-18.65,USD,subscriptions,main_debit,True
+2025-02-23T16:00:00,Costco,-19.18,USD,groceries,main_debit,False
+2025-02-23T21:42:00,Metro Pass,-4.14,USD,transport,main_debit,False
+2025-02-23T22:57:00,Glovo,-22.95,USD,delivery,main_debit,False
+2025-02-24T08:38:00,Starbucks,-2.49,USD,coffee,main_debit,False
+2025-02-24T14:11:00,Uber,-6.89,USD,transport,main_debit,False
+2025-02-24T19:34:00,Sportlife,-25.52,USD,health,main_debit,False
+2025-02-25T08:13:00,Novus,-17.29,USD,groceries,main_debit,False
+2025-02-25T09:52:00,Starbucks,-5.42,USD,coffee,main_debit,False
+2025-02-25T18:02:00,Uber Eats,-10.65,USD,delivery,main_debit,False
+2025-02-25T20:14:00,Uklon,-4.07,USD,transport,main_debit,False
+2025-02-26T09:29:00,Bolt,-1.47,USD,transport,main_debit,False
+2025-02-26T12:47:00,Uklon,-4.05,USD,transport,main_debit,False
+2025-02-26T13:15:00,Electric Bill,-30.4,USD,utilities,main_debit,False
+2025-02-26T14:00:00,Netflix,-21.6,USD,entertainment,credit_card,False
+2025-02-26T17:13:00,Kyivstar,-29.21,USD,utilities,main_debit,False
+2025-02-27T07:04:00,Aroma Kava,-3.52,USD,coffee,main_debit,False
+2025-02-27T09:00:00,Credit Card Payment,-50,USD,credit_payment,main_debit,True
+2025-02-27T10:16:00,Metro Pass,-4.37,USD,transport,main_debit,False
+2025-02-27T20:35:00,Electric Bill,-13.88,USD,utilities,main_debit,False
+2025-02-28T07:21:00,Blue Bottle,-5.88,USD,coffee,main_debit,False
+2025-02-28T10:28:00,Sushi Master,-31.45,USD,restaurants,main_debit,False
+2025-02-28T13:06:00,ChatGPT Plus,-10.77,USD,subscriptions,main_debit,True
+2025-02-28T22:40:00,Uber Eats,-17.08,USD,delivery,main_debit,False
+2025-03-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-03-01T12:36:00,Bolt Food,-21.37,USD,delivery,main_debit,False
+2025-03-01T19:48:00,Novus,-41.76,USD,groceries,main_debit,False
+2025-03-02T21:23:00,iCloud,-1.95,USD,subscriptions,main_debit,True
+2025-03-03T07:53:00,Aroma Kava,-2.63,USD,coffee,main_debit,False
+2025-03-03T08:06:00,Starbucks,-4.43,USD,coffee,main_debit,False
+2025-03-03T12:28:00,Sushi Master,-28.35,USD,restaurants,main_debit,False
+2025-03-03T13:40:00,Bolt Food,-8.85,USD,delivery,main_debit,False
+2025-03-03T17:02:00,Bolt Food,-11.73,USD,delivery,main_debit,False
+2025-03-03T19:33:00,ATB,-26.79,USD,groceries,main_debit,False
+2025-03-04T20:17:00,ATB,-30.03,USD,groceries,main_debit,False
+2025-03-04T22:10:00,Uber Eats,-10.5,USD,delivery,main_debit,False
+2025-03-05T08:39:00,Starbucks,-2.95,USD,coffee,main_debit,False
+2025-03-05T09:18:00,Zara,-28.52,USD,shopping,main_debit,False
+2025-03-05T10:11:00,H&M,-48.65,USD,shopping,main_debit,False
+2025-03-05T19:40:00,Silpo,-25.97,USD,groceries,main_debit,False
+2025-03-06T12:28:00,Electric Bill,-27.55,USD,utilities,main_debit,False
+2025-03-06T13:19:00,Novus,-31.28,USD,groceries,main_debit,False
+2025-03-08T13:54:00,Novus,-63.23,USD,groceries,main_debit,False
+2025-03-08T15:33:00,Uber,-9.15,USD,transport,main_debit,False
+2025-03-08T17:18:00,Doctor Visit,-22.11,USD,health,main_debit,False
+2025-03-08T20:50:00,Sportlife,-18.68,USD,health,main_debit,False
+2025-03-08T23:09:00,Uber Eats,-21.9,USD,delivery,main_debit,False
+2025-03-10T18:44:00,Spotify,-5.88,USD,entertainment,main_debit,False
+2025-03-10T20:24:00,iCloud,-16.95,USD,subscriptions,main_debit,True
+2025-03-11T08:20:00,Starbucks,-4.31,USD,coffee,main_debit,False
+2025-03-11T09:09:00,Aroma Kava,-6.39,USD,coffee,main_debit,False
+2025-03-11T09:37:00,YouTube Premium,-11.92,USD,entertainment,main_debit,False
+2025-03-11T17:30:00,Uber,-5.67,USD,transport,main_debit,False
+2025-03-12T07:43:00,Blue Bottle,-2.87,USD,coffee,main_debit,False
+2025-03-12T09:37:00,Aroma Kava,-6.94,USD,coffee,main_debit,False
+2025-03-12T13:58:00,Uklon,-5.24,USD,transport,main_debit,False
+2025-03-12T22:41:00,Glovo,-6.65,USD,delivery,main_debit,False
+2025-03-13T08:46:00,Aroma Kava,-2.93,USD,coffee,main_debit,False
+2025-03-13T09:33:00,Starbucks,-4.01,USD,coffee,main_debit,False
+2025-03-13T14:29:00,Novus,-19.9,USD,groceries,main_debit,False
+2025-03-13T14:49:00,Uklon,-12.83,USD,transport,main_debit,False
+2025-03-14T08:52:00,Blue Bottle,-3.58,USD,coffee,main_debit,False
+2025-03-14T08:56:00,Lviv Croissants,-2.41,USD,coffee,main_debit,False
+2025-03-14T09:18:00,Sushi Master,-66.62,USD,restaurants,main_debit,False
+2025-03-15T07:03:00,Blue Bottle,-7.57,USD,coffee,main_debit,False
+2025-03-15T08:06:00,Aroma Kava,-9.04,USD,coffee,main_debit,False
+2025-03-15T09:02:00,Starbucks,-10.44,USD,coffee,main_debit,False
+2025-03-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-03-15T17:41:00,Uber,-12.08,USD,transport,main_debit,False
+2025-03-15T20:47:00,Bolt,-13.22,USD,transport,main_debit,False
+2025-03-15T21:15:00,Bolt Food,-15.2,USD,delivery,main_debit,False
+2025-03-15T23:41:00,Uber Eats,-18.47,USD,delivery,main_debit,False
+2025-03-16T08:04:00,Aroma Kava,-4.52,USD,coffee,main_debit,False
+2025-03-16T14:17:00,Murakami,-83.7,USD,restaurants,main_debit,False
+2025-03-17T11:09:00,Costco,-35.01,USD,groceries,main_debit,False
+2025-03-17T14:10:00,Spotify,-17.38,USD,subscriptions,main_debit,True
+2025-03-17T20:34:00,Zara,-51.16,USD,shopping,main_debit,False
+2025-03-19T17:25:00,Bolt Food,-8.35,USD,delivery,main_debit,False
+2025-03-19T17:26:00,Bolt Food,-6.65,USD,delivery,main_debit,False
+2025-03-19T18:25:00,Silpo,-18.18,USD,groceries,main_debit,False
+2025-03-20T16:40:00,Bolt Food,-51.18,USD,delivery,main_debit,False
+2025-03-20T17:32:00,Metro Pass,-7.53,USD,transport,main_debit,False
+2025-03-20T19:05:00,Cinema City,-6.18,USD,entertainment,credit_card,False
+2025-03-20T22:42:00,Novus,-47.52,USD,groceries,main_debit,False
+2025-03-21T12:12:00,Bolt Food,-10.85,USD,delivery,main_debit,False
+2025-03-21T20:21:00,Netflix,-14.58,USD,entertainment,main_debit,False
+2025-03-21T21:54:00,Bolt,-6.45,USD,transport,main_debit,False
+2025-03-22T12:46:00,Spotify,-19.49,USD,entertainment,main_debit,False
+2025-03-22T20:39:00,Rozetka,-42.57,USD,shopping,credit_card,False
+2025-03-23T18:11:00,Bolt,-4.77,USD,transport,main_debit,False
+2025-03-23T19:51:00,Bolt Food,-9.94,USD,delivery,main_debit,False
+2025-03-24T21:04:00,Uber Eats,-9.89,USD,delivery,main_debit,False
+2025-03-25T15:12:00,H&M,-18.27,USD,shopping,credit_card,False
+2025-03-25T16:07:00,Pizza Celentano,-23.78,USD,restaurants,main_debit,False
+2025-03-26T07:35:00,Aroma Kava,-8.87,USD,coffee,main_debit,False
+2025-03-26T14:54:00,Silpo,-45.29,USD,groceries,main_debit,False
+2025-03-26T15:14:00,Doctor Visit,-16.91,USD,health,main_debit,False
+2025-03-26T17:08:00,YouTube Premium,-11.26,USD,subscriptions,main_debit,True
+2025-03-26T22:53:00,Uklon,-6.4,USD,transport,main_debit,False
+2025-03-27T09:00:00,Credit Card Payment,-1109.747431121928,USD,credit_payment,main_debit,True
+2025-03-27T14:05:00,Electric Bill,-16.94,USD,utilities,main_debit,False
+2025-03-27T15:56:00,Water Bill,-15.83,USD,utilities,main_debit,False
+2025-03-28T08:27:00,Aroma Kava,-6.07,USD,coffee,main_debit,False
+2025-03-28T09:41:00,Lviv Croissants,-5.09,USD,coffee,main_debit,False
+2025-03-30T08:11:00,ATB,-67.03,USD,groceries,main_debit,False
+2025-03-30T08:25:00,Water Bill,-63.1,USD,utilities,main_debit,False
+2025-03-31T08:28:00,Bolt,-3.82,USD,transport,main_debit,False
+2025-04-01T09:22:00,Lviv Croissants,-4.55,USD,coffee,main_debit,False
+2025-04-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-04-01T10:54:00,Costco,-41.03,USD,groceries,main_debit,False
+2025-04-02T07:26:00,Blue Bottle,-3.46,USD,coffee,main_debit,False
+2025-04-02T08:12:00,Aroma Kava,-2.99,USD,coffee,main_debit,False
+2025-04-02T10:04:00,ATB,-32.23,USD,groceries,main_debit,False
+2025-04-02T10:45:00,Rozetka,-57.2,USD,shopping,credit_card,False
+2025-04-02T14:03:00,Spotify,-8.16,USD,entertainment,main_debit,False
+2025-04-03T07:53:00,Blue Bottle,-2.09,USD,coffee,main_debit,False
+2025-04-03T09:49:00,Blue Bottle,-2.29,USD,coffee,main_debit,False
+2025-04-03T11:49:00,Uber Eats,-5.87,USD,delivery,main_debit,False
+2025-04-03T13:41:00,Glovo,-15.08,USD,delivery,main_debit,False
+2025-04-03T18:40:00,Costco,-43.26,USD,groceries,main_debit,False
+2025-04-03T20:43:00,Pizza Celentano,-18.04,USD,restaurants,main_debit,False
+2025-04-04T08:18:00,Metro Pass,-3.02,USD,transport,main_debit,False
+2025-04-04T08:27:00,Blue Bottle,-3.12,USD,coffee,main_debit,False
+2025-04-05T09:21:00,Lviv Croissants,-6.29,USD,coffee,main_debit,False
+2025-04-05T11:02:00,iCloud,-15.55,USD,subscriptions,main_debit,True
+2025-04-05T20:32:00,Uber Eats,-12.12,USD,delivery,main_debit,False
+2025-04-06T19:39:00,Sportlife,-7.79,USD,subscriptions,main_debit,True
+2025-04-06T23:39:00,Uber Eats,-10.96,USD,delivery,main_debit,False
+2025-04-07T09:08:00,Puzata Hata,-22.7,USD,restaurants,main_debit,False
+2025-04-07T17:18:00,Sushi Master,-26.02,USD,restaurants,main_debit,False
+2025-04-07T20:10:00,Metro Pass,-4.83,USD,transport,main_debit,False
+2025-04-08T09:01:00,Murakami,-22.04,USD,restaurants,main_debit,False
+2025-04-08T16:33:00,Bolt Food,-11.26,USD,delivery,main_debit,False
+2025-04-09T07:48:00,Lviv Croissants,-4.85,USD,coffee,main_debit,False
+2025-04-09T15:15:00,Uber,-3.26,USD,transport,main_debit,False
+2025-04-09T20:16:00,Sushi Master,-27.14,USD,restaurants,main_debit,False
+2025-04-09T23:26:00,Uber Eats,-8.85,USD,delivery,main_debit,False
+2025-04-10T08:55:00,Aroma Kava,-4.06,USD,coffee,main_debit,False
+2025-04-10T15:52:00,Pharmacy,-14.55,USD,health,main_debit,False
+2025-04-10T16:00:00,Bolt,-6.08,USD,transport,main_debit,False
+2025-04-11T07:31:00,Blue Bottle,-7.75,USD,coffee,main_debit,False
+2025-04-11T11:29:00,Bolt,-4.64,USD,transport,main_debit,False
+2025-04-11T22:39:00,Rozetka,-98.89,USD,shopping,credit_card,False
+2025-04-12T07:22:00,Aroma Kava,-7.37,USD,coffee,main_debit,False
+2025-04-12T09:24:00,YouTube Premium,-14.06,USD,entertainment,main_debit,False
+2025-04-12T09:26:00,Doctor Visit,-33.99,USD,health,main_debit,False
+2025-04-12T09:40:00,Aroma Kava,-6.61,USD,coffee,main_debit,False
+2025-04-12T19:43:00,ATB,-78.11,USD,groceries,main_debit,False
+2025-04-12T19:55:00,Novus,-71.21,USD,groceries,main_debit,False
+2025-04-13T07:40:00,Blue Bottle,-5.13,USD,coffee,main_debit,False
+2025-04-13T08:38:00,ATB,-66.07,USD,groceries,main_debit,False
+2025-04-13T13:32:00,Bolt,-5.75,USD,transport,main_debit,False
+2025-04-13T13:35:00,Spotify,-22.67,USD,entertainment,main_debit,False
+2025-04-14T19:03:00,Glovo,-12.69,USD,delivery,main_debit,False
+2025-04-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-04-15T10:57:00,Sushi Master,-29.06,USD,restaurants,main_debit,False
+2025-04-15T18:22:00,Glovo,-13.52,USD,delivery,main_debit,False
+2025-04-16T08:05:00,Metro Pass,-3.72,USD,transport,main_debit,False
+2025-04-16T16:24:00,Puzata Hata,-31.93,USD,restaurants,main_debit,False
+2025-04-16T22:52:00,Uber Eats,-15.52,USD,delivery,main_debit,False
+2025-04-17T08:04:00,Aroma Kava,-2.52,USD,coffee,main_debit,False
+2025-04-17T08:52:00,Blue Bottle,-4.15,USD,coffee,main_debit,False
+2025-04-17T15:09:00,H&M,-34.28,USD,shopping,main_debit,False
+2025-04-17T15:15:00,Uber,-3.92,USD,transport,main_debit,False
+2025-04-17T15:31:00,Uklon,-2.67,USD,transport,main_debit,False
+2025-04-17T21:20:00,Uber Eats,-14.44,USD,delivery,main_debit,False
+2025-04-18T13:42:00,Internet,-28.88,USD,utilities,main_debit,False
+2025-04-18T23:08:00,Uber Eats,-6.3,USD,delivery,main_debit,False
+2025-04-19T08:18:00,Metro Pass,-4.91,USD,transport,main_debit,False
+2025-04-19T08:37:00,Sportlife,-16.19,USD,subscriptions,main_debit,True
+2025-04-19T09:42:00,Aroma Kava,-7.49,USD,coffee,main_debit,False
+2025-04-20T09:32:00,Lviv Croissants,-8.57,USD,coffee,main_debit,False
+2025-04-20T10:44:00,Costco,-81.04,USD,groceries,main_debit,False
+2025-04-20T12:40:00,Silpo,-38.61,USD,groceries,main_debit,False
+2025-04-20T18:43:00,Metro Pass,-4.31,USD,transport,main_debit,False
+2025-04-21T07:51:00,Lviv Croissants,-2.0,USD,coffee,main_debit,False
+2025-04-21T20:49:00,iCloud,-12.0,USD,subscriptions,main_debit,True
+2025-04-22T12:19:00,Costco,-40.0,USD,groceries,main_debit,False
+2025-04-23T07:18:00,Blue Bottle,-5.3,USD,coffee,main_debit,False
+2025-04-23T09:12:00,Netflix,-10.63,USD,subscriptions,main_debit,True
+2025-04-23T10:33:00,Electric Bill,-21.06,USD,utilities,main_debit,False
+2025-04-24T08:57:00,Blue Bottle,-3.17,USD,coffee,main_debit,False
+2025-04-25T09:47:00,Starbucks,-2.53,USD,coffee,main_debit,False
+2025-04-25T17:58:00,Internet,-15.07,USD,utilities,main_debit,False
+2025-04-25T18:23:00,Novus,-22.76,USD,groceries,main_debit,False
+2025-04-26T07:20:00,Starbucks,-7.29,USD,coffee,main_debit,False
+2025-04-26T09:00:00,Credit Card Payment,-50,USD,credit_payment,main_debit,True
+2025-04-27T08:44:00,Blue Bottle,-6.04,USD,coffee,main_debit,False
+2025-04-27T15:45:00,Doctor Visit,-20.9,USD,health,main_debit,False
+2025-04-27T18:39:00,Netflix,-16.35,USD,entertainment,credit_card,False
+2025-04-28T09:21:00,Starbucks,-2.42,USD,coffee,main_debit,False
+2025-04-28T17:26:00,Uber,-5.31,USD,transport,main_debit,False
+2025-04-28T19:20:00,Uklon,-5.64,USD,transport,main_debit,False
+2025-04-28T21:47:00,Kyivstar,-27.54,USD,utilities,main_debit,False
+2025-04-28T22:10:00,Uklon,-3.68,USD,transport,main_debit,False
+2025-04-28T23:35:00,Bolt Food,-6.93,USD,delivery,main_debit,False
+2025-04-29T19:11:00,Glovo,-15.93,USD,delivery,main_debit,False
+2025-04-29T22:45:00,Uber Eats,-11.63,USD,delivery,main_debit,False
+2025-04-29T23:02:00,Glovo,-14.4,USD,delivery,main_debit,False
+2025-04-30T17:46:00,Uklon,-3.87,USD,transport,main_debit,False
+2025-05-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-05-01T12:24:00,ATB,-21.91,USD,groceries,main_debit,False
+2025-05-02T10:32:00,Uklon,-3.62,USD,transport,main_debit,False
+2025-05-02T13:41:00,Metro Pass,-4.42,USD,transport,main_debit,False
+2025-05-02T18:07:00,Costco,-40.14,USD,groceries,main_debit,False
+2025-05-03T09:11:00,ATB,-44.72,USD,groceries,main_debit,False
+2025-05-03T18:29:00,Glovo,-24.59,USD,delivery,main_debit,False
+2025-05-04T07:00:00,Lviv Croissants,-5.16,USD,coffee,main_debit,False
+2025-05-05T07:39:00,Lviv Croissants,-3.14,USD,coffee,main_debit,False
+2025-05-05T08:16:00,iCloud,-12.13,USD,subscriptions,main_debit,True
+2025-05-05T22:53:00,Glovo,-12.56,USD,delivery,main_debit,False
+2025-05-06T17:54:00,Costco,-19.56,USD,groceries,main_debit,False
+2025-05-06T19:50:00,Water Bill,-34.52,USD,utilities,main_debit,False
+2025-05-06T20:34:00,Metro Pass,-12.37,USD,transport,main_debit,False
+2025-05-07T07:52:00,Starbucks,-4.84,USD,coffee,main_debit,False
+2025-05-07T13:41:00,Cinema City,-18.84,USD,entertainment,credit_card,False
+2025-05-07T20:48:00,H&M,-19.66,USD,shopping,main_debit,False
+2025-05-07T22:02:00,Uber Eats,-13.33,USD,delivery,main_debit,False
+2025-05-08T07:42:00,Lviv Croissants,-4.04,USD,coffee,main_debit,False
+2025-05-08T12:56:00,Uber,-7.24,USD,transport,main_debit,False
+2025-05-08T15:35:00,Water Bill,-15.98,USD,utilities,main_debit,False
+2025-05-08T21:58:00,Uklon,-3.21,USD,transport,main_debit,False
+2025-05-09T20:52:00,Internet,-16.76,USD,utilities,main_debit,False
+2025-05-10T07:22:00,Blue Bottle,-8.11,USD,coffee,main_debit,False
+2025-05-10T09:34:00,Blue Bottle,-5.31,USD,coffee,main_debit,False
+2025-05-10T09:34:00,Blue Bottle,-7.42,USD,coffee,main_debit,False
+2025-05-10T13:46:00,Uber Eats,-18.12,USD,delivery,main_debit,False
+2025-05-10T16:37:00,Uber,-10.52,USD,transport,main_debit,False
+2025-05-10T17:00:00,Novus,-63.17,USD,groceries,main_debit,False
+2025-05-10T18:32:00,Novus,-64.02,USD,groceries,main_debit,False
+2025-05-11T07:58:00,Aroma Kava,-7.37,USD,coffee,main_debit,False
+2025-05-12T13:26:00,Netflix,-12.87,USD,subscriptions,main_debit,True
+2025-05-14T08:45:00,Blue Bottle,-3.2,USD,coffee,main_debit,False
+2025-05-14T09:59:00,Blue Bottle,-5.91,USD,coffee,main_debit,False
+2025-05-14T10:19:00,Metro Pass,-8.21,USD,transport,main_debit,False
+2025-05-14T19:35:00,Sushi Master,-34.34,USD,restaurants,main_debit,False
+2025-05-14T20:56:00,Glovo,-31.55,USD,delivery,main_debit,False
+2025-05-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-05-15T20:17:00,Novus,-39.48,USD,groceries,main_debit,False
+2025-05-16T09:12:00,Starbucks,-6.08,USD,coffee,main_debit,False
+2025-05-16T11:55:00,Amazon,-21.88,USD,shopping,main_debit,False
+2025-05-16T13:59:00,ATB,-24.18,USD,groceries,main_debit,False
+2025-05-17T22:43:00,Bolt Food,-10.44,USD,delivery,main_debit,False
+2025-05-18T12:30:00,Glovo,-21.9,USD,delivery,main_debit,False
+2025-05-18T22:09:00,Bolt Food,-12.6,USD,delivery,main_debit,False
+2025-05-19T09:06:00,Starbucks,-5.88,USD,coffee,main_debit,False
+2025-05-19T17:49:00,Uklon,-6.6,USD,transport,main_debit,False
+2025-05-19T21:14:00,ChatGPT Plus,-8.99,USD,subscriptions,main_debit,True
+2025-05-19T22:44:00,Glovo,-6.92,USD,delivery,main_debit,False
+2025-05-20T19:13:00,Sportlife,-19.57,USD,health,main_debit,False
+2025-05-21T07:03:00,Aroma Kava,-5.98,USD,coffee,main_debit,False
+2025-05-21T08:47:00,Blue Bottle,-5.61,USD,coffee,main_debit,False
+2025-05-21T09:14:00,Aroma Kava,-4.94,USD,coffee,main_debit,False
+2025-05-21T13:44:00,ATB,-34.09,USD,groceries,main_debit,False
+2025-05-21T18:27:00,Metro Pass,-5.43,USD,transport,main_debit,False
+2025-05-22T16:14:00,Metro Pass,-3.3,USD,transport,main_debit,False
+2025-05-22T17:38:00,Zara,-34.86,USD,shopping,credit_card,False
+2025-05-22T21:08:00,Uber Eats,-8.0,USD,delivery,main_debit,False
+2025-05-24T15:47:00,Glovo,-17.14,USD,delivery,main_debit,False
+2025-05-24T21:20:00,Spotify,-11.9,USD,subscriptions,main_debit,True
+2025-05-25T15:34:00,Doctor Visit,-36.14,USD,health,main_debit,False
+2025-05-25T18:52:00,Murakami,-43.22,USD,restaurants,main_debit,False
+2025-05-25T20:38:00,Puzata Hata,-53.76,USD,restaurants,main_debit,False
+2025-05-25T23:34:00,Bolt Food,-9.94,USD,delivery,main_debit,False
+2025-05-26T08:11:00,Starbucks,-4.02,USD,coffee,main_debit,False
+2025-05-26T15:58:00,Cinema City,-15.21,USD,entertainment,credit_card,False
+2025-05-26T16:20:00,Metro Pass,-4.32,USD,transport,main_debit,False
+2025-05-27T14:32:00,Novus,-21.15,USD,groceries,main_debit,False
+2025-05-28T09:00:00,Credit Card Payment,-50,USD,credit_payment,main_debit,True
+2025-05-28T23:25:00,Uber Eats,-10.19,USD,delivery,main_debit,False
+2025-05-29T07:00:00,Starbucks,-4.35,USD,coffee,main_debit,False
+2025-05-29T07:54:00,Blue Bottle,-8.72,USD,coffee,main_debit,False
+2025-05-29T08:52:00,Starbucks,-4.24,USD,coffee,main_debit,False
+2025-05-30T07:26:00,Lviv Croissants,-4.88,USD,coffee,main_debit,False
+2025-05-30T07:53:00,Blue Bottle,-4.06,USD,coffee,main_debit,False
+2025-05-30T09:44:00,Starbucks,-5.35,USD,coffee,main_debit,False
+2025-05-30T11:35:00,Sportlife,-14.85,USD,health,main_debit,False
+2025-05-30T17:37:00,ChatGPT Plus,-4.55,USD,subscriptions,main_debit,True
+2025-05-31T07:18:00,Aroma Kava,-6.9,USD,coffee,main_debit,False
+2025-05-31T10:29:00,Pizza Celentano,-77.17,USD,restaurants,main_debit,False
+2025-05-31T11:59:00,Zara,-62.34,USD,shopping,credit_card,False
+2025-05-31T16:08:00,YouTube Premium,-33.64,USD,entertainment,credit_card,False
+2025-05-31T19:31:00,Internet,-39.02,USD,utilities,main_debit,False
+2025-05-31T22:24:00,Glovo,-19.38,USD,delivery,main_debit,False
+2025-06-01T09:43:00,Blue Bottle,-7.4,USD,coffee,main_debit,False
+2025-06-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-06-01T16:24:00,Bolt Food,-23.8,USD,delivery,main_debit,False
+2025-06-02T07:43:00,Starbucks,-1.86,USD,coffee,main_debit,False
+2025-06-03T08:24:00,Blue Bottle,-2.11,USD,coffee,main_debit,False
+2025-06-03T10:27:00,Costco,-37.96,USD,groceries,main_debit,False
+2025-06-03T12:02:00,Bolt,-3.77,USD,transport,main_debit,False
+2025-06-03T12:09:00,Costco,-29.79,USD,groceries,main_debit,False
+2025-06-03T20:39:00,Novus,-39.5,USD,groceries,main_debit,False
+2025-06-04T08:06:00,Uklon,-5.01,USD,transport,main_debit,False
+2025-06-04T08:14:00,Aroma Kava,-6.64,USD,coffee,main_debit,False
+2025-06-04T09:00:00,Novus,-34.27,USD,groceries,main_debit,False
+2025-06-04T20:15:00,Uklon,-4.25,USD,transport,main_debit,False
+2025-06-04T21:46:00,Uber,-7.12,USD,transport,main_debit,False
+2025-06-05T10:20:00,Sportlife,-11.92,USD,subscriptions,main_debit,True
+2025-06-06T15:40:00,iCloud,-6.23,USD,subscriptions,main_debit,True
+2025-06-06T18:39:00,Bolt,-4.6,USD,transport,main_debit,False
+2025-06-06T22:47:00,Spotify,-21.81,USD,entertainment,credit_card,False
+2025-06-07T15:04:00,Bolt Food,-23.68,USD,delivery,main_debit,False
+2025-06-08T16:35:00,Uber,-10.38,USD,transport,main_debit,False
+2025-06-08T18:11:00,Cinema City,-20.74,USD,entertainment,credit_card,False
+2025-06-09T08:05:00,Starbucks,-1.9,USD,coffee,main_debit,False
+2025-06-10T14:24:00,Puzata Hata,-18.03,USD,restaurants,main_debit,False
+2025-06-10T14:58:00,Bolt,-2.6,USD,transport,main_debit,False
+2025-06-11T13:20:00,Bolt Food,-13.14,USD,delivery,main_debit,False
+2025-06-11T20:12:00,Bolt Food,-13.34,USD,delivery,main_debit,False
+2025-06-11T21:24:00,Puzata Hata,-25.95,USD,restaurants,main_debit,False
+2025-06-11T22:23:00,Glovo,-8.23,USD,delivery,main_debit,False
+2025-06-12T08:30:00,Bolt,-4.45,USD,transport,main_debit,False
+2025-06-12T12:21:00,Metro Pass,-5.82,USD,transport,main_debit,False
+2025-06-12T13:12:00,Amazon,-22.8,USD,shopping,main_debit,False
+2025-06-12T15:06:00,Metro Pass,-5.3,USD,transport,main_debit,False
+2025-06-13T08:36:00,Lviv Croissants,-4.36,USD,coffee,main_debit,False
+2025-06-13T14:11:00,Costco,-40.16,USD,groceries,main_debit,False
+2025-06-13T16:32:00,Internet,-41.6,USD,utilities,main_debit,False
+2025-06-14T14:45:00,Internet,-44.4,USD,utilities,main_debit,False
+2025-06-14T17:24:00,Sportlife,-11.29,USD,subscriptions,main_debit,True
+2025-06-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-06-15T12:06:00,ATB,-37.9,USD,groceries,main_debit,False
+2025-06-15T15:49:00,Uber,-9.63,USD,transport,main_debit,False
+2025-06-15T21:08:00,Bolt Food,-11.53,USD,delivery,main_debit,False
+2025-06-16T10:05:00,Kyivstar,-19.92,USD,utilities,main_debit,False
+2025-06-17T07:15:00,Lviv Croissants,-3.39,USD,coffee,main_debit,False
+2025-06-17T09:22:00,Aroma Kava,-1.71,USD,coffee,main_debit,False
+2025-06-18T08:03:00,Aroma Kava,-3.74,USD,coffee,main_debit,False
+2025-06-18T10:21:00,Cinema City,-22.36,USD,entertainment,main_debit,False
+2025-06-18T10:31:00,YouTube Premium,-9.22,USD,subscriptions,main_debit,True
+2025-06-18T16:32:00,Costco,-12.47,USD,groceries,main_debit,False
+2025-06-19T07:36:00,Blue Bottle,-1.71,USD,coffee,main_debit,False
+2025-06-19T07:48:00,Blue Bottle,-4.68,USD,coffee,main_debit,False
+2025-06-19T09:43:00,Pharmacy,-16.65,USD,health,main_debit,False
+2025-06-19T09:51:00,H&M,-14.56,USD,shopping,main_debit,False
+2025-06-19T16:10:00,Sushi Master,-44.23,USD,restaurants,main_debit,False
+2025-06-19T18:43:00,Metro Pass,-5.32,USD,transport,main_debit,False
+2025-06-20T09:16:00,Starbucks,-4.43,USD,coffee,main_debit,False
+2025-06-20T14:37:00,Amazon,-25.2,USD,shopping,credit_card,False
+2025-06-20T21:08:00,Bolt Food,-11.43,USD,delivery,main_debit,False
+2025-06-21T09:48:00,Aroma Kava,-2.85,USD,coffee,main_debit,False
+2025-06-22T08:24:00,Lviv Croissants,-5.67,USD,coffee,main_debit,False
+2025-06-22T16:40:00,Rozetka,-30.53,USD,shopping,credit_card,False
+2025-06-22T22:42:00,Glovo,-55.68,USD,delivery,main_debit,False
+2025-06-23T07:05:00,Blue Bottle,-1.88,USD,coffee,main_debit,False
+2025-06-23T07:19:00,Aroma Kava,-1.82,USD,coffee,main_debit,False
+2025-06-23T11:13:00,Zara,-23.26,USD,shopping,credit_card,False
+2025-06-23T20:19:00,Doctor Visit,-31.87,USD,health,main_debit,False
+2025-06-23T20:40:00,ATB,-40.89,USD,groceries,main_debit,False
+2025-06-23T22:41:00,Spotify,-10.88,USD,subscriptions,main_debit,True
+2025-06-24T08:34:00,Starbucks,-4.6,USD,coffee,main_debit,False
+2025-06-24T14:20:00,Novus,-46.27,USD,groceries,main_debit,False
+2025-06-24T19:28:00,Uklon,-6.85,USD,transport,main_debit,False
+2025-06-24T22:35:00,Murakami,-33.37,USD,restaurants,main_debit,False
+2025-06-24T22:36:00,Glovo,-14.04,USD,delivery,main_debit,False
+2025-06-25T13:50:00,Metro Pass,-5.24,USD,transport,main_debit,False
+2025-06-25T23:29:00,Uber Eats,-10.65,USD,delivery,main_debit,False
+2025-06-26T07:06:00,Aroma Kava,-4.82,USD,coffee,main_debit,False
+2025-06-26T09:00:00,Credit Card Payment,-855.983411432247,USD,credit_payment,main_debit,True
+2025-06-26T09:46:00,Aroma Kava,-3.02,USD,coffee,main_debit,False
+2025-06-26T11:33:00,Metro Pass,-6.36,USD,transport,main_debit,False
+2025-06-26T11:45:00,Silpo,-52.96,USD,groceries,main_debit,False
+2025-06-26T20:14:00,Water Bill,-24.89,USD,utilities,main_debit,False
+2025-06-28T08:36:00,Aroma Kava,-3.18,USD,coffee,main_debit,False
+2025-06-29T07:14:00,Lviv Croissants,-3.6,USD,coffee,main_debit,False
+2025-06-29T09:02:00,Lviv Croissants,-5.72,USD,coffee,main_debit,False
+2025-06-29T09:30:00,Starbucks,-5.21,USD,coffee,main_debit,False
+2025-06-30T07:19:00,Lviv Croissants,-3.84,USD,coffee,main_debit,False
+2025-06-30T08:01:00,Lviv Croissants,-4.75,USD,coffee,main_debit,False
+2025-06-30T23:11:00,Uber Eats,-10.72,USD,delivery,main_debit,False
+2025-07-01T08:44:00,Novus,-47.89,USD,groceries,main_debit,False
+2025-07-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-07-01T11:30:00,Silpo,-21.12,USD,groceries,main_debit,False
+2025-07-01T22:13:00,Glovo,-14.67,USD,delivery,main_debit,False
+2025-07-02T14:04:00,Amazon,-82.76,USD,shopping,main_debit,False
+2025-07-02T14:40:00,Novus,-42.91,USD,groceries,main_debit,False
+2025-07-02T15:54:00,Uber,-8.84,USD,transport,main_debit,False
+2025-07-02T21:55:00,Bolt,-3.34,USD,transport,main_debit,False
+2025-07-03T13:42:00,ATB,-36.15,USD,groceries,main_debit,False
+2025-07-03T18:23:00,Novus,-17.53,USD,groceries,main_debit,False
+2025-07-03T19:00:00,Bolt Food,-9.96,USD,delivery,main_debit,False
+2025-07-05T08:40:00,Blue Bottle,-7.3,USD,coffee,main_debit,False
+2025-07-05T08:58:00,Aroma Kava,-6.66,USD,coffee,main_debit,False
+2025-07-05T14:01:00,Spotify,-11.4,USD,subscriptions,main_debit,True
+2025-07-05T16:43:00,Costco,-47.22,USD,groceries,main_debit,False
+2025-07-06T07:52:00,Lviv Croissants,-5.83,USD,coffee,main_debit,False
+2025-07-06T19:49:00,Uklon,-8.63,USD,transport,main_debit,False
+2025-07-06T21:02:00,Cinema City,-19.7,USD,entertainment,main_debit,False
+2025-07-07T08:52:00,Lviv Croissants,-5.21,USD,coffee,main_debit,False
+2025-07-07T09:37:00,Starbucks,-4.04,USD,coffee,main_debit,False
+2025-07-07T19:12:00,Uber Eats,-11.34,USD,delivery,main_debit,False
+2025-07-08T07:45:00,Starbucks,-3.95,USD,coffee,main_debit,False
+2025-07-08T13:15:00,YouTube Premium,-19.37,USD,entertainment,main_debit,False
+2025-07-08T19:32:00,Bolt,-10.69,USD,transport,main_debit,False
+2025-07-09T08:55:00,Aroma Kava,-2.99,USD,coffee,main_debit,False
+2025-07-09T09:02:00,Electric Bill,-35.36,USD,utilities,main_debit,False
+2025-07-09T09:08:00,Lviv Croissants,-5.65,USD,coffee,main_debit,False
+2025-07-09T21:04:00,Netflix,-9.77,USD,entertainment,main_debit,False
+2025-07-10T09:17:00,Aroma Kava,-2.91,USD,coffee,main_debit,False
+2025-07-10T17:50:00,Sportlife,-41.07,USD,health,main_debit,False
+2025-07-10T21:49:00,Bolt Food,-10.46,USD,delivery,main_debit,False
+2025-07-11T09:36:00,Lviv Croissants,-0.1,USD,coffee,main_debit,False
+2025-07-11T20:27:00,Uklon,-9.13,USD,transport,main_debit,False
+2025-07-12T20:06:00,Bolt,-6.66,USD,transport,main_debit,False
+2025-07-13T08:44:00,Starbucks,-4.1,USD,coffee,main_debit,False
+2025-07-13T09:50:00,Aroma Kava,-5.29,USD,coffee,main_debit,False
+2025-07-13T11:50:00,Glovo,-17.56,USD,delivery,main_debit,False
+2025-07-14T11:44:00,ATB,-41.36,USD,groceries,main_debit,False
+2025-07-14T18:05:00,Silpo,-45.89,USD,groceries,main_debit,False
+2025-07-14T23:34:00,Uber Eats,-19.2,USD,delivery,main_debit,False
+2025-07-15T07:49:00,Lviv Croissants,-4.85,USD,coffee,main_debit,False
+2025-07-15T08:20:00,Aroma Kava,-3.51,USD,coffee,main_debit,False
+2025-07-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-07-15T13:46:00,Murakami,-14.44,USD,restaurants,main_debit,False
+2025-07-16T08:20:00,Starbucks,-2.02,USD,coffee,main_debit,False
+2025-07-16T15:32:00,Uklon,-8.89,USD,transport,main_debit,False
+2025-07-16T22:40:00,Uber Eats,-17.2,USD,delivery,main_debit,False
+2025-07-17T09:16:00,Bolt,-4.56,USD,transport,main_debit,False
+2025-07-17T16:50:00,Uklon,-8.16,USD,transport,main_debit,False
+2025-07-17T17:00:00,Murakami,-10.69,USD,restaurants,main_debit,False
+2025-07-18T13:40:00,ChatGPT Plus,-7.97,USD,subscriptions,main_debit,True
+2025-07-18T22:49:00,Glovo,-9.97,USD,delivery,main_debit,False
+2025-07-20T08:45:00,Starbucks,-6.17,USD,coffee,main_debit,False
+2025-07-20T21:13:00,Puzata Hata,-17.81,USD,restaurants,main_debit,False
+2025-07-20T23:58:00,Glovo,-9.55,USD,delivery,main_debit,False
+2025-07-21T09:44:00,Starbucks,-4.37,USD,coffee,main_debit,False
+2025-07-21T18:09:00,Puzata Hata,-21.85,USD,restaurants,main_debit,False
+2025-07-21T19:09:00,Sushi Master,-24.51,USD,restaurants,main_debit,False
+2025-07-22T23:27:00,Uber Eats,-18.33,USD,delivery,main_debit,False
+2025-07-23T22:23:00,Internet,-15.54,USD,utilities,main_debit,False
+2025-07-24T09:37:00,Kyivstar,-10.26,USD,utilities,main_debit,False
+2025-07-24T12:06:00,Spotify,-7.88,USD,subscriptions,main_debit,True
+2025-07-24T19:48:00,ATB,-16.57,USD,groceries,main_debit,False
+2025-07-24T22:07:00,Bolt,-9.14,USD,transport,main_debit,False
+2025-07-25T09:00:00,Credit Card Payment,-50,USD,credit_payment,main_debit,True
+2025-07-25T18:24:00,ChatGPT Plus,-5.58,USD,subscriptions,main_debit,True
+2025-07-25T21:19:00,Rozetka,-44.14,USD,shopping,credit_card,False
+2025-07-25T21:48:00,Murakami,-15.67,USD,restaurants,main_debit,False
+2025-07-26T08:34:00,Starbucks,-5.07,USD,coffee,main_debit,False
+2025-07-26T23:48:00,Uber Eats,-24.44,USD,delivery,main_debit,False
+2025-07-27T09:25:00,Blue Bottle,-6.66,USD,coffee,main_debit,False
+2025-07-27T21:27:00,ATB,-0.23,USD,groceries,main_debit,False
+2025-07-28T07:50:00,Blue Bottle,-2.83,USD,coffee,main_debit,False
+2025-07-28T09:05:00,Blue Bottle,-4.68,USD,coffee,main_debit,False
+2025-07-28T09:39:00,Blue Bottle,-4.82,USD,coffee,main_debit,False
+2025-07-28T22:56:00,Novus,-40.52,USD,groceries,main_debit,False
+2025-07-29T08:21:00,Netflix,-10.2,USD,subscriptions,main_debit,True
+2025-07-29T09:08:00,Puzata Hata,-25.78,USD,restaurants,main_debit,False
+2025-07-29T16:48:00,Spotify,-7.73,USD,subscriptions,main_debit,True
+2025-07-29T18:19:00,ATB,-44.76,USD,groceries,main_debit,False
+2025-07-29T21:33:00,Internet,-35.63,USD,utilities,main_debit,False
+2025-07-30T11:25:00,Uber Eats,-16.27,USD,delivery,main_debit,False
+2025-07-30T23:26:00,Bolt Food,-15.25,USD,delivery,main_debit,False
+2025-07-31T21:59:00,Bolt Food,-6.51,USD,delivery,main_debit,False
+2025-08-01T07:12:00,Blue Bottle,-2.38,USD,coffee,main_debit,False
+2025-08-01T08:54:00,Blue Bottle,-2.75,USD,coffee,main_debit,False
+2025-08-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-08-01T10:37:00,Murakami,-26.58,USD,restaurants,main_debit,False
+2025-08-01T23:04:00,Bolt Food,-12.89,USD,delivery,main_debit,False
+2025-08-02T11:38:00,ATB,-83.09,USD,groceries,main_debit,False
+2025-08-02T14:09:00,Internet,-36.33,USD,utilities,main_debit,False
+2025-08-02T22:21:00,Electric Bill,-58.95,USD,utilities,main_debit,False
+2025-08-03T07:26:00,Lviv Croissants,-3.37,USD,coffee,main_debit,False
+2025-08-03T09:19:00,Cinema City,-17.49,USD,entertainment,main_debit,False
+2025-08-04T07:03:00,Lviv Croissants,-4.18,USD,coffee,main_debit,False
+2025-08-04T07:29:00,Aroma Kava,-3.67,USD,coffee,main_debit,False
+2025-08-04T08:06:00,Lviv Croissants,-4.06,USD,coffee,main_debit,False
+2025-08-04T08:13:00,YouTube Premium,-13.82,USD,entertainment,credit_card,False
+2025-08-04T08:25:00,Metro Pass,-8.98,USD,transport,main_debit,False
+2025-08-04T14:09:00,Spotify,-11.09,USD,subscriptions,main_debit,True
+2025-08-05T07:52:00,Blue Bottle,-2.77,USD,coffee,main_debit,False
+2025-08-05T08:23:00,Bolt,-7.43,USD,transport,main_debit,False
+2025-08-05T08:27:00,Pharmacy,-14.32,USD,health,main_debit,False
+2025-08-05T13:45:00,Murakami,-18.97,USD,restaurants,main_debit,False
+2025-08-05T16:15:00,Bolt Food,-24.44,USD,delivery,main_debit,False
+2025-08-05T20:44:00,Zara,-20.05,USD,shopping,main_debit,False
+2025-08-06T08:06:00,Uklon,-5.93,USD,transport,main_debit,False
+2025-08-06T09:15:00,ATB,-33.58,USD,groceries,main_debit,False
+2025-08-06T09:27:00,Blue Bottle,-2.22,USD,coffee,main_debit,False
+2025-08-06T10:13:00,Pharmacy,-16.84,USD,health,main_debit,False
+2025-08-06T11:37:00,Novus,-34.57,USD,groceries,main_debit,False
+2025-08-06T13:56:00,Spotify,-5.96,USD,entertainment,credit_card,False
+2025-08-06T15:04:00,Bolt,-3.82,USD,transport,main_debit,False
+2025-08-06T19:04:00,Bolt,-4.64,USD,transport,main_debit,False
+2025-08-06T23:36:00,Bolt Food,-13.52,USD,delivery,main_debit,False
+2025-08-07T08:09:00,Aroma Kava,-4.95,USD,coffee,main_debit,False
+2025-08-07T11:26:00,Uklon,-6.1,USD,transport,main_debit,False
+2025-08-08T21:59:00,Bolt Food,-11.09,USD,delivery,main_debit,False
+2025-08-09T07:02:00,Lviv Croissants,-4.32,USD,coffee,main_debit,False
+2025-08-09T07:10:00,Starbucks,-5.92,USD,coffee,main_debit,False
+2025-08-09T20:58:00,Silpo,-39.18,USD,groceries,main_debit,False
+2025-08-10T12:06:00,Bolt,-8.55,USD,transport,main_debit,False
+2025-08-11T10:56:00,Metro Pass,-6.41,USD,transport,main_debit,False
+2025-08-11T13:05:00,Uber Eats,-21.79,USD,delivery,main_debit,False
+2025-08-11T17:39:00,Metro Pass,-6.37,USD,transport,main_debit,False
+2025-08-12T07:58:00,Lviv Croissants,-3.27,USD,coffee,main_debit,False
+2025-08-12T09:40:00,Aroma Kava,-2.61,USD,coffee,main_debit,False
+2025-08-12T20:37:00,ATB,-26.6,USD,groceries,main_debit,False
+2025-08-12T22:26:00,Water Bill,-15.4,USD,utilities,main_debit,False
+2025-08-12T22:53:00,ATB,-16.58,USD,groceries,main_debit,False
+2025-08-13T09:22:00,Blue Bottle,-6.88,USD,coffee,main_debit,False
+2025-08-13T15:18:00,Glovo,-10.14,USD,delivery,main_debit,False
+2025-08-13T16:20:00,YouTube Premium,-8.86,USD,subscriptions,main_debit,True
+2025-08-13T18:31:00,Internet,-20.15,USD,utilities,main_debit,False
+2025-08-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-08-16T09:27:00,Lviv Croissants,-2.95,USD,coffee,main_debit,False
+2025-08-16T12:05:00,Cinema City,-16.96,USD,entertainment,main_debit,False
+2025-08-16T14:57:00,Zara,-27.13,USD,shopping,main_debit,False
+2025-08-17T21:00:00,ChatGPT Plus,-15.56,USD,subscriptions,main_debit,True
+2025-08-18T08:53:00,Rozetka,-28.53,USD,shopping,credit_card,False
+2025-08-18T09:35:00,Lviv Croissants,-4.4,USD,coffee,main_debit,False
+2025-08-18T12:11:00,Costco,-30.62,USD,groceries,main_debit,False
+2025-08-19T09:16:00,Aroma Kava,-1.94,USD,coffee,main_debit,False
+2025-08-19T17:37:00,Netflix,-0.99,USD,subscriptions,main_debit,True
+2025-08-19T18:48:00,Uber,-8.5,USD,transport,main_debit,False
+2025-08-21T08:31:00,Blue Bottle,-3.5,USD,coffee,main_debit,False
+2025-08-21T09:15:00,Aroma Kava,-2.73,USD,coffee,main_debit,False
+2025-08-21T23:44:00,Uber Eats,-24.32,USD,delivery,main_debit,False
+2025-08-22T08:16:00,Lviv Croissants,-2.57,USD,coffee,main_debit,False
+2025-08-22T12:19:00,Uber,-9.26,USD,transport,main_debit,False
+2025-08-22T13:51:00,H&M,-16.29,USD,shopping,main_debit,False
+2025-08-22T21:21:00,Bolt Food,-24.64,USD,delivery,main_debit,False
+2025-08-23T08:25:00,Aroma Kava,-3.48,USD,coffee,main_debit,False
+2025-08-23T18:10:00,Metro Pass,-12.64,USD,transport,main_debit,False
+2025-08-25T09:54:00,Pizza Celentano,-52.31,USD,restaurants,main_debit,False
+2025-08-25T11:36:00,Costco,-24.28,USD,groceries,main_debit,False
+2025-08-26T07:05:00,Starbucks,-4.33,USD,coffee,main_debit,False
+2025-08-26T09:00:00,Credit Card Payment,-50,USD,credit_payment,main_debit,True
+2025-08-26T19:44:00,Novus,-16.68,USD,groceries,main_debit,False
+2025-08-26T23:52:00,Glovo,-15.11,USD,delivery,main_debit,False
+2025-08-27T09:44:00,Aroma Kava,-3.16,USD,coffee,main_debit,False
+2025-08-27T20:56:00,Costco,-41.24,USD,groceries,main_debit,False
+2025-08-28T23:20:00,Uber Eats,-10.74,USD,delivery,main_debit,False
+2025-08-29T09:30:00,Aroma Kava,-4.95,USD,coffee,main_debit,False
+2025-08-30T09:24:00,iCloud,-19.1,USD,subscriptions,main_debit,True
+2025-08-30T19:44:00,Novus,-63.46,USD,groceries,main_debit,False
+2025-08-30T21:20:00,Puzata Hata,-87.09,USD,restaurants,main_debit,False
+2025-08-31T10:36:00,ATB,-37.58,USD,groceries,main_debit,False
+2025-08-31T21:59:00,H&M,-34.39,USD,shopping,main_debit,False
+2025-09-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-09-02T19:07:00,Metro Pass,-4.28,USD,transport,main_debit,False
+2025-09-02T21:40:00,Puzata Hata,-36.4,USD,restaurants,main_debit,False
+2025-09-02T21:54:00,Murakami,-23.26,USD,restaurants,main_debit,False
+2025-09-03T22:29:00,Uber Eats,-15.11,USD,delivery,main_debit,False
+2025-09-04T17:19:00,Glovo,-10.54,USD,delivery,main_debit,False
+2025-09-05T16:31:00,Bolt Food,-3.71,USD,delivery,main_debit,False
+2025-09-05T16:48:00,ATB,-33.71,USD,groceries,main_debit,False
+2025-09-06T07:53:00,Aroma Kava,-4.56,USD,coffee,main_debit,False
+2025-09-06T07:54:00,Lviv Croissants,-6.39,USD,coffee,main_debit,False
+2025-09-06T08:47:00,Aroma Kava,-9.21,USD,coffee,main_debit,False
+2025-09-06T20:22:00,Kyivstar,-40.7,USD,utilities,main_debit,False
+2025-09-07T09:33:00,Blue Bottle,-8.64,USD,coffee,main_debit,False
+2025-09-07T14:18:00,Cinema City,-11.1,USD,entertainment,credit_card,False
+2025-09-08T07:29:00,Aroma Kava,-4.21,USD,coffee,main_debit,False
+2025-09-08T08:00:00,Netflix,-11.25,USD,entertainment,main_debit,False
+2025-09-09T08:52:00,Blue Bottle,-2.54,USD,coffee,main_debit,False
+2025-09-10T07:24:00,Aroma Kava,-3.27,USD,coffee,main_debit,False
+2025-09-10T09:30:00,ATB,-24.28,USD,groceries,main_debit,False
+2025-09-10T09:50:00,Bolt,-8.73,USD,transport,main_debit,False
+2025-09-10T12:58:00,Costco,-45.24,USD,groceries,main_debit,False
+2025-09-10T14:42:00,Bolt,-5.93,USD,transport,main_debit,False
+2025-09-11T19:45:00,ATB,-41.38,USD,groceries,main_debit,False
+2025-09-11T22:17:00,Glovo,-15.29,USD,delivery,main_debit,False
+2025-09-12T12:37:00,Pizza Celentano,-19.17,USD,restaurants,main_debit,False
+2025-09-13T08:37:00,ATB,-50.46,USD,groceries,main_debit,False
+2025-09-13T21:34:00,Glovo,-39.7,USD,delivery,main_debit,False
+2025-09-14T08:29:00,Starbucks,-8.87,USD,coffee,main_debit,False
+2025-09-14T09:32:00,Bolt,-11.67,USD,transport,main_debit,False
+2025-09-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-09-15T12:16:00,Zara,-134.87,USD,shopping,main_debit,False
+2025-09-15T14:07:00,Uklon,-8.77,USD,transport,main_debit,False
+2025-09-15T21:07:00,Sushi Master,-19.2,USD,restaurants,main_debit,False
+2025-09-16T07:41:00,Lviv Croissants,-3.02,USD,coffee,main_debit,False
+2025-09-16T09:28:00,Lviv Croissants,-6.26,USD,coffee,main_debit,False
+2025-09-16T19:09:00,Uber,-4.2,USD,transport,main_debit,False
+2025-09-16T22:12:00,Puzata Hata,-24.43,USD,restaurants,main_debit,False
+2025-09-16T22:31:00,Kyivstar,-28.47,USD,utilities,main_debit,False
+2025-09-17T07:55:00,Aroma Kava,-2.92,USD,coffee,main_debit,False
+2025-09-17T08:40:00,Aroma Kava,-5.82,USD,coffee,main_debit,False
+2025-09-17T20:27:00,Uber Eats,-26.98,USD,delivery,main_debit,False
+2025-09-19T07:00:00,Starbucks,-2.67,USD,coffee,main_debit,False
+2025-09-20T07:16:00,Starbucks,-9.11,USD,coffee,main_debit,False
+2025-09-20T18:06:00,Bolt,-5.21,USD,transport,main_debit,False
+2025-09-21T07:17:00,Blue Bottle,-6.77,USD,coffee,main_debit,False
+2025-09-21T10:07:00,Spotify,-14.28,USD,subscriptions,main_debit,True
+2025-09-22T07:15:00,Starbucks,-2.69,USD,coffee,main_debit,False
+2025-09-22T13:43:00,ATB,-18.48,USD,groceries,main_debit,False
+2025-09-22T16:17:00,Uber,-3.68,USD,transport,main_debit,False
+2025-09-22T16:40:00,Costco,-23.13,USD,groceries,main_debit,False
+2025-09-23T09:25:00,Lviv Croissants,-5.6,USD,coffee,main_debit,False
+2025-09-23T09:41:00,Starbucks,-5.27,USD,coffee,main_debit,False
+2025-09-23T18:40:00,Bolt,-3.08,USD,transport,main_debit,False
+2025-09-23T19:03:00,Spotify,-6.64,USD,subscriptions,main_debit,True
+2025-09-24T08:41:00,Costco,-17.14,USD,groceries,main_debit,False
+2025-09-24T12:46:00,ATB,-23.3,USD,groceries,main_debit,False
+2025-09-24T16:57:00,Bolt Food,-11.67,USD,delivery,main_debit,False
+2025-09-24T22:19:00,Glovo,-12.35,USD,delivery,main_debit,False
+2025-09-25T09:00:00,Credit Card Payment,-1098.2999279356545,USD,credit_payment,main_debit,True
+2025-09-25T09:56:00,Aroma Kava,-3.41,USD,coffee,main_debit,False
+2025-09-25T13:10:00,Bolt Food,-26.99,USD,delivery,main_debit,False
+2025-09-25T16:39:00,Bolt,-7.75,USD,transport,main_debit,False
+2025-09-25T22:02:00,Pharmacy,-15.52,USD,health,main_debit,False
+2025-09-25T23:00:00,Uber Eats,-24.72,USD,delivery,main_debit,False
+2025-09-26T08:24:00,Uklon,-8.31,USD,transport,main_debit,False
+2025-09-26T22:40:00,Bolt Food,-25.28,USD,delivery,main_debit,False
+2025-09-27T07:04:00,Starbucks,-2.92,USD,coffee,main_debit,False
+2025-09-27T08:54:00,Amazon,-138.15,USD,shopping,credit_card,False
+2025-09-27T15:09:00,Netflix,-25.45,USD,entertainment,main_debit,False
+2025-09-28T09:22:00,Starbucks,-5.97,USD,coffee,main_debit,False
+2025-09-28T16:19:00,Sushi Master,-57.88,USD,restaurants,main_debit,False
+2025-09-28T18:56:00,ATB,-57.89,USD,groceries,main_debit,False
+2025-09-28T21:46:00,Electric Bill,-49.51,USD,utilities,main_debit,False
+2025-09-29T08:51:00,Costco,-24.27,USD,groceries,main_debit,False
+2025-09-29T14:28:00,Kyivstar,-10.36,USD,utilities,main_debit,False
+2025-09-30T08:45:00,Lviv Croissants,-5.08,USD,coffee,main_debit,False
+2025-09-30T11:44:00,YouTube Premium,-8.39,USD,entertainment,main_debit,False
+2025-09-30T18:22:00,Novus,-36.81,USD,groceries,main_debit,False
+2025-10-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-10-01T15:10:00,iCloud,-7.51,USD,subscriptions,main_debit,True
+2025-10-01T15:45:00,Zara,-59.89,USD,shopping,credit_card,False
+2025-10-01T16:47:00,Silpo,-37.77,USD,groceries,main_debit,False
+2025-10-02T19:54:00,Pharmacy,-13.65,USD,health,main_debit,False
+2025-10-02T22:08:00,Glovo,-11.65,USD,delivery,main_debit,False
+2025-10-03T08:11:00,Zara,-62.14,USD,shopping,main_debit,False
+2025-10-03T08:20:00,Lviv Croissants,-4.18,USD,coffee,main_debit,False
+2025-10-03T08:28:00,Blue Bottle,-2.96,USD,coffee,main_debit,False
+2025-10-03T08:28:00,Starbucks,-5.94,USD,coffee,main_debit,False
+2025-10-03T13:14:00,Uber,-9.25,USD,transport,main_debit,False
+2025-10-03T20:47:00,Doctor Visit,-5.66,USD,health,main_debit,False
+2025-10-04T07:12:00,Aroma Kava,-2.93,USD,coffee,main_debit,False
+2025-10-04T07:35:00,Aroma Kava,-6.08,USD,coffee,main_debit,False
+2025-10-04T09:14:00,Aroma Kava,-6.24,USD,coffee,main_debit,False
+2025-10-04T09:41:00,Aroma Kava,-9.49,USD,coffee,main_debit,False
+2025-10-04T17:38:00,Novus,-76.44,USD,groceries,main_debit,False
+2025-10-05T22:58:00,ChatGPT Plus,-18.02,USD,subscriptions,main_debit,True
+2025-10-06T10:14:00,Water Bill,-28.91,USD,utilities,main_debit,False
+2025-10-07T11:39:00,Pizza Celentano,-26.51,USD,restaurants,main_debit,False
+2025-10-07T14:57:00,Electric Bill,-22.02,USD,utilities,main_debit,False
+2025-10-09T14:21:00,Novus,-10.06,USD,groceries,main_debit,False
+2025-10-10T11:48:00,Metro Pass,-7.51,USD,transport,main_debit,False
+2025-10-10T22:41:00,Netflix,-5.92,USD,entertainment,credit_card,False
+2025-10-11T07:32:00,Lviv Croissants,-8.58,USD,coffee,main_debit,False
+2025-10-11T09:38:00,Blue Bottle,-6.11,USD,coffee,main_debit,False
+2025-10-11T09:51:00,Starbucks,-3.82,USD,coffee,main_debit,False
+2025-10-11T10:33:00,Bolt,-8.03,USD,transport,main_debit,False
+2025-10-11T22:35:00,Murakami,-24.31,USD,restaurants,main_debit,False
+2025-10-12T07:54:00,Blue Bottle,-8.17,USD,coffee,main_debit,False
+2025-10-12T09:18:00,Doctor Visit,-23.8,USD,health,main_debit,False
+2025-10-13T17:43:00,Bolt Food,-10.25,USD,delivery,main_debit,False
+2025-10-13T22:50:00,Bolt,-4.59,USD,transport,main_debit,False
+2025-10-14T18:52:00,H&M,-31.8,USD,shopping,main_debit,False
+2025-10-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-10-15T13:04:00,Glovo,-19.62,USD,delivery,main_debit,False
+2025-10-17T22:24:00,Costco,-39.25,USD,groceries,main_debit,False
+2025-10-18T08:52:00,Lviv Croissants,-7.79,USD,coffee,main_debit,False
+2025-10-18T09:06:00,Aroma Kava,-8.18,USD,coffee,main_debit,False
+2025-10-18T14:12:00,Bolt Food,-17.53,USD,delivery,main_debit,False
+2025-10-18T17:42:00,Sushi Master,-37.59,USD,restaurants,main_debit,False
+2025-10-18T18:00:00,Bolt,-10.43,USD,transport,main_debit,False
+2025-10-18T21:37:00,Costco,-98.64,USD,groceries,main_debit,False
+2025-10-19T22:16:00,Rozetka,-91.12,USD,shopping,main_debit,False
+2025-10-19T23:59:00,Glovo,-51.94,USD,delivery,main_debit,False
+2025-10-20T18:58:00,Uber Eats,-9.68,USD,delivery,main_debit,False
+2025-10-20T22:44:00,ATB,-47.84,USD,groceries,main_debit,False
+2025-10-21T09:13:00,Spotify,-13.93,USD,entertainment,main_debit,False
+2025-10-21T09:29:00,Starbucks,-3.81,USD,coffee,main_debit,False
+2025-10-21T13:00:00,iCloud,-5.64,USD,subscriptions,main_debit,True
+2025-10-21T14:27:00,Rozetka,-15.57,USD,shopping,credit_card,False
+2025-10-22T13:21:00,Uklon,-7.21,USD,transport,main_debit,False
+2025-10-22T13:28:00,Uber,-6.93,USD,transport,main_debit,False
+2025-10-22T13:58:00,Murakami,-33.33,USD,restaurants,main_debit,False
+2025-10-22T19:57:00,Pizza Celentano,-11.29,USD,restaurants,main_debit,False
+2025-10-23T09:23:00,Blue Bottle,-4.75,USD,coffee,main_debit,False
+2025-10-23T09:48:00,Pizza Celentano,-32.29,USD,restaurants,main_debit,False
+2025-10-23T17:11:00,ATB,-44.97,USD,groceries,main_debit,False
+2025-10-23T18:11:00,Pizza Celentano,-24.34,USD,restaurants,main_debit,False
+2025-10-23T22:48:00,Uber Eats,-11.52,USD,delivery,main_debit,False
+2025-10-24T19:57:00,Water Bill,-23.28,USD,utilities,main_debit,False
+2025-10-24T21:15:00,Uber Eats,-9.45,USD,delivery,main_debit,False
+2025-10-25T09:00:00,Credit Card Payment,-50,USD,credit_payment,main_debit,True
+2025-10-25T16:06:00,Uber Eats,-22.72,USD,delivery,main_debit,False
+2025-10-25T20:32:00,Netflix,-20.02,USD,entertainment,main_debit,False
+2025-10-26T14:34:00,Metro Pass,-5.35,USD,transport,main_debit,False
+2025-10-26T16:18:00,ChatGPT Plus,-13.71,USD,subscriptions,main_debit,True
+2025-10-26T23:03:00,Bolt Food,-27.75,USD,delivery,main_debit,False
+2025-10-27T07:50:00,Starbucks,-4.85,USD,coffee,main_debit,False
+2025-10-27T09:47:00,Blue Bottle,-4.54,USD,coffee,main_debit,False
+2025-10-28T08:55:00,Lviv Croissants,-5.59,USD,coffee,main_debit,False
+2025-10-28T21:55:00,Glovo,-7.69,USD,delivery,main_debit,False
+2025-10-29T07:31:00,Lviv Croissants,-5.68,USD,coffee,main_debit,False
+2025-10-29T09:35:00,Lviv Croissants,-4.57,USD,coffee,main_debit,False
+2025-10-29T18:39:00,Uber,-5.54,USD,transport,main_debit,False
+2025-10-30T07:32:00,Blue Bottle,-2.09,USD,coffee,main_debit,False
+2025-10-30T08:13:00,Blue Bottle,-2.83,USD,coffee,main_debit,False
+2025-10-30T16:49:00,ATB,-55.23,USD,groceries,main_debit,False
+2025-10-31T08:43:00,Uklon,-8.3,USD,transport,main_debit,False
+2025-10-31T09:10:00,Netflix,-11.47,USD,entertainment,main_debit,False
+2025-10-31T09:19:00,Electric Bill,-10.72,USD,utilities,main_debit,False
+2025-10-31T13:07:00,Bolt Food,-17.44,USD,delivery,main_debit,False
+2025-10-31T16:08:00,Costco,-25.1,USD,groceries,main_debit,False
+2025-10-31T23:16:00,Glovo,-18.31,USD,delivery,main_debit,False
+2025-11-01T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-11-01T20:43:00,Metro Pass,-7.98,USD,transport,main_debit,False
+2025-11-04T23:43:00,Bolt Food,-16.59,USD,delivery,main_debit,False
+2025-11-05T08:32:00,Aroma Kava,-6.1,USD,coffee,main_debit,False
+2025-11-05T19:46:00,Costco,-55.86,USD,groceries,main_debit,False
+2025-11-05T21:33:00,Bolt Food,-18.86,USD,delivery,main_debit,False
+2025-11-06T09:17:00,Internet,-30.7,USD,utilities,main_debit,False
+2025-11-06T11:04:00,Pizza Celentano,-26.43,USD,restaurants,main_debit,False
+2025-11-06T13:35:00,YouTube Premium,-8.9,USD,entertainment,main_debit,False
+2025-11-06T14:40:00,Zara,-45.11,USD,shopping,credit_card,False
+2025-11-06T22:59:00,Bolt Food,-14.02,USD,delivery,main_debit,False
+2025-11-07T21:42:00,iCloud,-13.69,USD,subscriptions,main_debit,True
+2025-11-08T09:46:00,Starbucks,-8.07,USD,coffee,main_debit,False
+2025-11-08T09:47:00,Blue Bottle,-10.51,USD,coffee,main_debit,False
+2025-11-08T13:14:00,Silpo,-37.73,USD,groceries,main_debit,False
+2025-11-09T07:43:00,Starbucks,-6.86,USD,coffee,main_debit,False
+2025-11-09T19:47:00,Bolt,-13.7,USD,transport,main_debit,False
+2025-11-10T11:02:00,iCloud,-13.95,USD,subscriptions,main_debit,True
+2025-11-10T17:22:00,Cinema City,-17.02,USD,entertainment,main_debit,False
+2025-11-10T17:56:00,Metro Pass,-8.24,USD,transport,main_debit,False
+2025-11-11T08:28:00,Starbucks,-5.66,USD,coffee,main_debit,False
+2025-11-12T08:14:00,Costco,-47.63,USD,groceries,main_debit,False
+2025-11-12T18:25:00,Internet,-22.48,USD,utilities,main_debit,False
+2025-11-12T21:55:00,Pizza Celentano,-33.08,USD,restaurants,main_debit,False
+2025-11-13T08:32:00,Aroma Kava,-0.66,USD,coffee,main_debit,False
+2025-11-13T15:58:00,Costco,-40.46,USD,groceries,main_debit,False
+2025-11-13T18:13:00,Uklon,-0.25,USD,transport,main_debit,False
+2025-11-13T18:24:00,Novus,-28.47,USD,groceries,main_debit,False
+2025-11-14T07:00:00,Starbucks,-6.24,USD,coffee,main_debit,False
+2025-11-14T10:16:00,Metro Pass,-8.9,USD,transport,main_debit,False
+2025-11-15T10:00:00,Employer Inc,2250.0,USD,salary,main_debit,True
+2025-11-15T10:06:00,Rozetka,-142.29,USD,shopping,credit_card,False
+2025-11-15T18:10:00,Glovo,-18.34,USD,delivery,main_debit,False
+2025-11-16T07:41:00,Aroma Kava,-5.23,USD,coffee,main_debit,False
+2025-11-16T22:38:00,Puzata Hata,-85.9,USD,restaurants,main_debit,False
+2025-11-17T14:23:00,Bolt,-9.96,USD,transport,main_debit,False
+2025-11-17T22:08:00,Sushi Master,-38.37,USD,restaurants,main_debit,False
+2025-11-18T08:34:00,Blue Bottle,-5.03,USD,coffee,main_debit,False
+2025-11-19T09:23:00,Starbucks,-5.88,USD,coffee,main_debit,False
+2025-11-19T11:33:00,Kyivstar,-30.21,USD,utilities,main_debit,False
+2025-11-19T16:07:00,Bolt,-7.39,USD,transport,main_debit,False
+2025-11-19T20:47:00,Bolt,-7.33,USD,transport,main_debit,False
+2025-11-19T23:02:00,Uber Eats,-15.78,USD,delivery,main_debit,False
+2025-11-20T09:19:00,Lviv Croissants,-5.89,USD,coffee,main_debit,False
+2025-11-20T14:05:00,Pharmacy,-44.15,USD,health,main_debit,False
+2025-11-20T18:33:00,YouTube Premium,-5.35,USD,subscriptions,main_debit,True
+2025-11-20T20:56:00,Uber Eats,-16.63,USD,delivery,main_debit,False
+2025-11-20T22:24:00,Glovo,-15.62,USD,delivery,main_debit,False
+2025-11-21T07:23:00,Blue Bottle,-2.61,USD,coffee,main_debit,False
+2025-11-21T15:28:00,Netflix,-8.16,USD,subscriptions,main_debit,True
+2025-11-21T21:08:00,Uber Eats,-9.41,USD,delivery,main_debit,False
+2025-11-22T11:26:00,Cinema City,-19.84,USD,entertainment,main_debit,False
+2025-11-22T22:50:00,Novus,-59.95,USD,groceries,main_debit,False
+2025-11-23T08:49:00,Spotify,-8.36,USD,subscriptions,main_debit,True
+2025-11-23T11:51:00,Metro Pass,-11.82,USD,transport,main_debit,False
+2025-11-23T18:53:00,Novus,-104.52,USD,groceries,main_debit,False
+2025-11-24T07:57:00,Aroma Kava,-5.34,USD,coffee,main_debit,False
+2025-11-24T19:04:00,Kyivstar,-21.22,USD,utilities,main_debit,False
+2025-11-24T21:05:00,Glovo,-13.1,USD,delivery,main_debit,False
+2025-11-25T09:13:00,Aroma Kava,-2.74,USD,coffee,main_debit,False
+2025-11-25T11:58:00,Bolt,-4.22,USD,transport,main_debit,False
+2025-11-26T09:00:00,Credit Card Payment,-50,USD,credit_payment,main_debit,True
+2025-11-26T13:51:00,Zara,-94.94,USD,shopping,main_debit,False
+2025-11-26T20:24:00,Uklon,-9.79,USD,transport,main_debit,False
+2025-11-27T08:54:00,Lviv Croissants,-2.47,USD,coffee,main_debit,False
+2025-11-27T09:37:00,Blue Bottle,-3.62,USD,coffee,main_debit,False
+2025-11-27T13:32:00,Bolt Food,-16.83,USD,delivery,main_debit,False
+2025-11-27T17:50:00,Uber Eats,-8.78,USD,delivery,main_debit,False
+2025-11-27T19:16:00,ATB,-49.57,USD,groceries,main_debit,False
+2025-11-28T09:40:00,Aroma Kava,-4.3,USD,coffee,main_debit,False
+2025-11-28T16:27:00,YouTube Premium,-7.73,USD,entertainment,main_debit,False
+2025-11-29T08:22:00,Starbucks,-6.82,USD,coffee,main_debit,False
+2025-11-29T08:46:00,Aroma Kava,-3.94,USD,coffee,main_debit,False
+2025-11-29T18:20:00,Silpo,-38.29,USD,groceries,main_debit,False

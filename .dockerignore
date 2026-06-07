@@ -1,0 +1,10 @@
+.git
+.env
+__pycache__
+*.pyc
+faiss_index/
+.venv/
+eval/eval_output.log
+eval/results.json
+.gitignore
+Dockerfile.naive
